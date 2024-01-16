@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: "Aggie's Running Page",
   siteUrl: 'https://adongtt.github.io/running/',
-  logo: 'https://www.custombaseballgloves.com/static/images/adong.jpg',
+  logo: 'https://www.custombaseballgloves.com/static/images/aggie.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
